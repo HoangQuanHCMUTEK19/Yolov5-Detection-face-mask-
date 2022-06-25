@@ -1,0 +1,10 @@
+
+train: /content/drive/MyDrive/face_data/train/images  # train images (relative to 'path') 128 images
+val: /content/drive/MyDrive/face_data/val/images  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 2  # number of classes
+names: ['Khau Trang ','Khong Khau Trang']  # class names
+
+
