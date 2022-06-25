@@ -1,5 +1,9 @@
 # Yolov5-Detection-face-mask-
+Link file dữ liệu training 
+https://drive.google.com/drive/u/0/folders/1kR-QR6Ac7p05Bhu5NELJNn4E04WfHmxa
+
 Kết quả thực hiện được 
+
 
 ![image](https://user-images.githubusercontent.com/105483714/175763308-14b808de-5c00-4716-a202-dd798f19bfd8.png)
 
